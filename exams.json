@@ -1,0 +1,2174 @@
+{
+  "verified": "2026-10-04",
+  "subjects": [
+    {
+      "id": "math",
+      "name": "Matemaatika",
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑"
+    },
+    {
+      "id": "estonian",
+      "name": "Eesti keel",
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa"
+    },
+    {
+      "id": "english",
+      "name": "Inglise keel",
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En"
+    },
+    {
+      "id": "biology",
+      "name": "Bioloogia",
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧"
+    },
+    {
+      "id": "geography",
+      "name": "Geograafia",
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎"
+    },
+    {
+      "id": "history",
+      "name": "Ajalugu",
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛"
+    },
+    {
+      "id": "physics",
+      "name": "Füüsika",
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗"
+    },
+    {
+      "id": "chemistry",
+      "name": "Keemia",
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗"
+    },
+    {
+      "id": "civics",
+      "name": "Ühiskonnaõpetus",
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖"
+    }
+  ],
+  "exams": [
+    {
+      "id": "math-2026",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2026,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/mat_PK_2026_A4.pdf?version=1&modificationDate=1785758815347&api=v2",
+          "local": "papers/math-2026-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/mat_PK_2026_A4.pdf?version=1&modificationDate=1785758815347&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PE%202026%20HJ.pdf?version=1&modificationDate=1785759014404&api=v2",
+          "local": "papers/math-2026-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PE%202026%20vastavustabel.pdf?version=1&modificationDate=1785759141781&api=v2"
+        },
+        {
+          "title": "Matemaatika põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%203%20P%C3%B5hikooli%20matemaatika%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995271285&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2026",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2026,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PK_eesti%20keel_p%C3%B5hieksam_eksamit%C3%B6%C3%B6_A4.pdf?version=1&modificationDate=1783061217325&api=v2",
+          "local": "papers/estonian-2026-0.pdf",
+          "pageCount": 14
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PK_eesti%20keel_p%C3%B5hieksam_eksamit%C3%B6%C3%B6_A4.pdf?version=1&modificationDate=1783061217325&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PK_eesti%20keel_p%C3%B5hieksam_hindamisjuhend%20%C3%B5petajatele.pdf?version=1&modificationDate=1783061217908&api=v2",
+          "local": "papers/estonian-2026-guide-1.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PK_eesti%20keel_p%C3%B5hieksam_v%C3%B5ti.pdf?version=1&modificationDate=1783061218740&api=v2",
+          "local": "papers/estonian-2026-guide-2.pdf"
+        },
+        {
+          "title": "Eesti keele vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PK_eesti%20keel_p%C3%B5hieksam_vastavustabel.pdf?version=1&modificationDate=1783061218319&api=v2"
+        },
+        {
+          "title": "Eesti keele põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%201%20P%C3%B5hikooli%20eesti%20keele%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995204307&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "english-2026",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2026,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ing_keel_2026_PK_vihik.pdf?version=1&modificationDate=1783001309900&api=v2",
+          "local": "papers/english-2026-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/inglise_keel_PK2026_PE.mp3?version=1&modificationDate=1783001352299&api=v2"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ik_PK_2025_%20Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1783001705576&api=v2",
+          "local": "papers/english-2026-guide-1.pdf"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ik_PK_2026_Interviewer_A.pdf?version=1&modificationDate=1783001433839&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ik_PK_2026_Pildikaardid_A.pdf?version=1&modificationDate=1783001443656&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ik_PK_2026_student_A.pdf?version=1&modificationDate=1783001455992&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/ing_keel_2026_PK_vihik.pdf?version=1&modificationDate=1783001309900&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK%20Hindamisjuhend%202026.pdf?version=1&modificationDate=1783001366323&api=v2",
+          "local": "papers/english-2026-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%208%20P%C3%B5hikooli%20inglise%20keele%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995252834&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2026",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2026,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Bio_2026_est_A4.pdf?version=1&modificationDate=1783421919779&api=v2",
+          "local": "papers/biology-2026-0.pdf",
+          "pageCount": 11
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Bio_2026_est_A4.pdf?version=1&modificationDate=1783421919779&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_bioloogia_hindamisjuhend_EST.pdf?version=1&modificationDate=1783421702581&api=v2",
+          "local": "papers/biology-2026-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_bioloogia_vastavustabel.pdf?version=1&modificationDate=1783421663782&api=v2"
+        },
+        {
+          "title": "Bioloogia põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%205%20P%C3%B5hikooli%20bioloogia%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995188589&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2026",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2026,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Geo_2026_I_OSA_est_A4.pdf?version=1&modificationDate=1783493916808&api=v2",
+          "local": "papers/geography-2026-0.pdf",
+          "pageCount": 8
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Geo_2026_II_OSA_est_A4.pdf?version=1&modificationDate=1783493995764&api=v2",
+          "local": "papers/geography-2026-1.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Geo_2026_I_OSA_est_A4.pdf?version=1&modificationDate=1783493916808&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Geo_2026_II_OSA_est_A4.pdf?version=1&modificationDate=1783493995764&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_geograafia_hindamisjuhend_EST.pdf?version=1&modificationDate=1783493715377&api=v2",
+          "local": "papers/geography-2026-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_geograafia_vastavustabel.pdf?version=1&modificationDate=1783493621879&api=v2"
+        },
+        {
+          "title": "Geograafia põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%207%20P%C3%B5hikooli%20geograafia%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995243926&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2026",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2026,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_ajalugu_eksamit%C3%B6%C3%B6_est.pdf?version=1&modificationDate=1783422652315&api=v2",
+          "local": "papers/history-2026-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_ajalugu_eksamit%C3%B6%C3%B6_est.pdf?version=1&modificationDate=1783422652315&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_ajaloo_hindamisjuhend_est.pdf?version=1&modificationDate=1783422672569&api=v2",
+          "local": "papers/history-2026-guide-1.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Ajaloo%20p%C3%B5hieksami%20vastavustabel%202026.pdf?version=1&modificationDate=1783422730841&api=v2"
+        },
+        {
+          "title": "Ajaloo põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%204%20P%C3%B5hikooli%20ajaloo%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995173460&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2026",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2026,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Fyysika_2026_est_A4.pdf?version=1&modificationDate=1783422243773&api=v2",
+          "local": "papers/physics-2026-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/PK_Fyysika_2026_est_A4.pdf?version=1&modificationDate=1783422243773&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_fyysika_hindamisjuhend_EST.pdf?version=1&modificationDate=1783422112150&api=v2",
+          "local": "papers/physics-2026-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_fyysika_vastavustabel.pdf?version=1&modificationDate=1783422070965&api=v2"
+        },
+        {
+          "title": "Füüsika põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%206%20P%C3%B5hikooli%20f%C3%BC%C3%BCsika%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995236291&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2026",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2026,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Keemia%20eksamit%C3%B6%C3%B6%20eesti%20keeles%202026.pdf?version=1&modificationDate=1782999384724&api=v2",
+          "local": "papers/chemistry-2026-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Keemia%20eksamit%C3%B6%C3%B6%20eesti%20keeles%202026.pdf?version=1&modificationDate=1782999384724&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Keemia%20hindamisjuhend%20eesti%20keeles%202026.pdf?version=1&modificationDate=1782998961874&api=v2",
+          "local": "papers/chemistry-2026-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Keemia%20eksamit%C3%B6%C3%B6%20vastavustabel%202026.pdf?version=1&modificationDate=1782999209568&api=v2"
+        },
+        {
+          "title": "Keemia põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%209%20P%C3%B5hikooli%20keemia%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995262971&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2026",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2026,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787911/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2026",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_%C3%BChiskond_eksamit%C3%B6%C3%B6_est.pdf?version=1&modificationDate=1783422780533&api=v2",
+          "local": "papers/civics-2026-0.pdf",
+          "pageCount": 10
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_%C3%BChiskond_eksamit%C3%B6%C3%B6_est.pdf?version=1&modificationDate=1783422780533&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/2026_PE_%C3%9Chiskonna%C3%B5p_hindamisjuhend_EST.pdf?version=1&modificationDate=1783422795234&api=v2",
+          "local": "papers/civics-2026-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/%C3%9Chiskonna%C3%B5petuse%20p%C3%B5hieksami%20vastavustabel%202026.pdf?version=1&modificationDate=1783422842859&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse põhikooli lõpueksami eristuskiri 2026",
+          "url": "https://projektid.edu.ee/download/attachments/313787911/Lisa%2012%20P%C3%B5hikooli%20%C3%BChiskonna%C3%B5petuse%20l%C3%B5pueksami%20eristuskiri%202026.pdf?version=1&modificationDate=1773995327454&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "math-2025",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2025,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/mat_PK_2025_A4.pdf?version=2&modificationDate=1773521008068&api=v2",
+          "local": "papers/math-2025-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/mat_PK_2025_A4.pdf?version=2&modificationDate=1773521008068&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend eest keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/mat_PK_2025_hindamisjuhend.pdf?version=1&modificationDate=1748107539569&api=v2",
+          "local": "papers/math-2025-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PE%202025%20vastavustabel.pdf?version=2&modificationDate=1748107797418&api=v2"
+        },
+        {
+          "title": "Matemaatika põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Matemaatika%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748107880066&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2025",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2025,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/eesti%20keel_PK_2025_A4.pdf?version=1&modificationDate=1747934181639&api=v2",
+          "local": "papers/estonian-2025-0.pdf",
+          "pageCount": 12
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/eesti%20keel_PK_2025_A4.pdf?version=1&modificationDate=1747934181639&api=v2"
+        },
+        {
+          "title": "Eesti keele põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eesti%20keel_PE2025_eristuskiri.pdf?version=1&modificationDate=1747934180517&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/eesti%20keel_PK_2025_hindamisjuhend.pdf?version=1&modificationDate=1747934182862&api=v2",
+          "local": "papers/estonian-2025-guide-2.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/eesti%20keel_PK_2025_v%C3%B5ti.pdf?version=1&modificationDate=1747934184054&api=v2",
+          "local": "papers/estonian-2025-guide-3.pdf"
+        },
+        {
+          "title": "Eesti keele vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/eesti%20keel_PK_2025_vastavustabel.pdf?version=1&modificationDate=1747934183461&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "english-2025",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2025,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ing_keel_2025_PK_vihik.pdf?version=1&modificationDate=1747934508163&api=v2",
+          "local": "papers/english-2025-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Inglise%20keele%20p_hikooli%20eksami%20audiofail%202025.mp3?version=1&modificationDate=1747817504996&api=v2"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ik_PK_2025_%20Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1747934499110&api=v2",
+          "local": "papers/english-2025-guide-1.pdf"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ik_PK_2025_Interviewer_A.pdf?version=1&modificationDate=1747934499559&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ik_PK_2025_Pildikaardid_A.pdf?version=1&modificationDate=1747934504186&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ik_PK_2025_student_A.pdf?version=1&modificationDate=1747934507312&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/ing_keel_2025_PK_vihik.pdf?version=1&modificationDate=1747934508163&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK%20Hindamisjuhend%202025.pdf?version=1&modificationDate=1747934508733&api=v2",
+          "local": "papers/english-2025-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Inglise%20keele%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1747985761583&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2025",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2025,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202025%29.pdf?version=1&modificationDate=1748182280442&api=v2",
+          "local": "papers/biology-2025-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202025%29.pdf?version=1&modificationDate=1748182280442&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Bioloogia%20p%C3%B5hikooli%20eksami%20hindamisjuhend%20eesti%20keeles.pdf?version=1&modificationDate=1748182305501&api=v2",
+          "local": "papers/biology-2025-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Vastavustabel%20%28PE%20bioloogia%202025%29.pdf?version=1&modificationDate=1748182364524&api=v2"
+        },
+        {
+          "title": "Bioloogia põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Bioloogia%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748182473819&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2025",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2025,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202025%29.pdf?version=1&modificationDate=1748184102930&api=v2",
+          "local": "papers/geography-2025-0.pdf",
+          "pageCount": 4
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202025%29.pdf?version=1&modificationDate=1748184153978&api=v2",
+          "local": "papers/geography-2025-1.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202025%29.pdf?version=1&modificationDate=1748184102930&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202025%29.pdf?version=1&modificationDate=1748184153978&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Geograafia%20p%C3%B5hikooli%20eksami%20hindamisjuhend%20eesti%20keeles%202025.pdf?version=1&modificationDate=1748184221985&api=v2",
+          "local": "papers/geography-2025-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Vastavustabel%20%28PE%20geograafia%202025%29.pdf?version=1&modificationDate=1748184382834&api=v2"
+        },
+        {
+          "title": "Geograafia põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Geograafia%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748183006177&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2025",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2025,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_ajalugu_2025_est%20%281%29.pdf?version=1&modificationDate=1747727956829&api=v2",
+          "local": "papers/history-2025-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_ajalugu_2025_est%20%281%29.pdf?version=1&modificationDate=1747727956829&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_ajalugu_hindamisjuhend_2025_est.pdf?version=1&modificationDate=1748111535894&api=v2",
+          "local": "papers/history-2025-guide-1.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Vastavustabel%202025.pdf?version=1&modificationDate=1748111679192&api=v2"
+        },
+        {
+          "title": "Ajaloo põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Ajaloo%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748111791374&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2025",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2025,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202025%29.pdf?version=1&modificationDate=1748183826340&api=v2",
+          "local": "papers/physics-2025-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202025%29.pdf?version=1&modificationDate=1748183826340&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/F%C3%BC%C3%BCsika%20p%C3%B5hikooli%20eksami%20hindamisjuhend%20eesti%20keeles%202025.pdf?version=1&modificationDate=1748183868734&api=v2",
+          "local": "papers/physics-2025-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Vastavustabel%20%28PE%20fyysika%202025%29.pdf?version=1&modificationDate=1748183987928&api=v2"
+        },
+        {
+          "title": "Füüsika põhikooli lõpueksami erituskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/F%C3%BC%C3%BCsika%20PE%20eristuskiri_2025%20%281%29.pdf?version=1&modificationDate=1748182703410&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2025",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2025,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202025.pdf?version=1&modificationDate=1748184488609&api=v2",
+          "local": "papers/chemistry-2025-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202025.pdf?version=1&modificationDate=1748184488609&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Keemia%20p%C3%B5hikooli%20eksami%20hindamisjuhend%20eesti%20keeles%202025.pdf?version=1&modificationDate=1748184526040&api=v2",
+          "local": "papers/chemistry-2025-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Vastavustabel%20%28PE%20keemia%202025%29.pdf?version=1&modificationDate=1748184620067&api=v2"
+        },
+        {
+          "title": "Keemia põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/Keemia%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748183103784&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2025",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2025,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/287864451/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2025",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_yhiskond_2025_est.pdf?version=1&modificationDate=1748183527878&api=v2",
+          "local": "papers/civics-2025-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_yhiskond_2025_est.pdf?version=1&modificationDate=1748183527878&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_yhiskond_hindamisjuhend_2025_est.pdf?version=1&modificationDate=1748183589479&api=v2",
+          "local": "papers/civics-2025-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/PK_yhiskond_vastavustabel%202025.pdf?version=1&modificationDate=1748183732011&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse põhikooli lõpueksami eristuskiri 2025",
+          "url": "https://projektid.edu.ee/download/attachments/287864451/%C3%9Chiskonna%C3%B5petuse%20PE%20eristuskiri_2025.pdf?version=1&modificationDate=1748183198556&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "math-2024",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2024,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202024%29.pdf?version=1&modificationDate=1756716585566&api=v2",
+          "local": "papers/math-2024-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202024%29.pdf?version=1&modificationDate=1756716585566&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend eest keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Hindamisjuhend%20%28PE%20matemaatika%202024%29.pdf?version=1&modificationDate=1756716586876&api=v2",
+          "local": "papers/math-2024-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20%28PE%20matemaatika%202024%29.pdf?version=1&modificationDate=1756716587679&api=v2"
+        },
+        {
+          "title": "Matemaatika põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Matemaatika%20PE%20eristuskiri.pdf?version=1&modificationDate=1756716587336&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2024",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2024,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/eesti%20keel_PK_2024_A4.pdf?version=1&modificationDate=1756712210950&api=v2",
+          "local": "papers/estonian-2024-0.pdf",
+          "pageCount": 12
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/eesti%20keel_PK_2024_A4.pdf?version=1&modificationDate=1756712210950&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/eesti%20keel_PK_2024_hindamisjuhend.pdf?version=1&modificationDate=1756712211879&api=v2",
+          "local": "papers/estonian-2024-guide-1.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/eesti%20keel_PK_2024_v%C3%B5ti.pdf?version=1&modificationDate=1756712212424&api=v2",
+          "local": "papers/estonian-2024-guide-2.pdf"
+        },
+        {
+          "title": "Eesti keele vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eesti%20keel_PE_vastavustabel2024.pdf?version=1&modificationDate=1756712210178&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "english-2024",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2024,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ing_keel_2024_PK_vihik.pdf?version=1&modificationDate=1756715212037&api=v2",
+          "local": "papers/english-2024-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Inglise_k_PK_2024_Helifail.mp3?version=1&modificationDate=1756715212501&api=v2"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ik_PK_2024_%20Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1756715207435&api=v2",
+          "local": "papers/english-2024-guide-1.pdf"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ik_PK_2024_%C3%95petajakaart_A.pdf?version=1&modificationDate=1756715210143&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ik_PK_2024_Pildikaardid_A.pdf?version=1&modificationDate=1756715207855&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ik_PK_2024_Rollim%C3%A4ngukaart_A.pdf?version=1&modificationDate=1756715209492&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/ing_keel_2024_PK_vihik.pdf?version=1&modificationDate=1756715212037&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK%20Hindamisjuhend%202024.pdf?version=1&modificationDate=1756715241957&api=v2",
+          "local": "papers/english-2024-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20PK%20inglise%20keel%202024.pdf?version=1&modificationDate=1756715242949&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2024",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2024,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202024%29.pdf?version=1&modificationDate=1756710919044&api=v2",
+          "local": "papers/biology-2024-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202024%29.pdf?version=1&modificationDate=1756710919044&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Hindamisjuhend%20eesti%20keeles%20%28PE%20bioloogia%202024%29.pdf?version=1&modificationDate=1756710923764&api=v2",
+          "local": "papers/biology-2024-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20%28PE%20bioloogia%202024%29.pdf?version=1&modificationDate=1756710925102&api=v2"
+        },
+        {
+          "title": "Bioloogia põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Bioloogia%20PE%20eristuskiri.pdf?version=1&modificationDate=1756710918546&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2024",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2024,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714349592&api=v2",
+          "local": "papers/geography-2024-0.pdf",
+          "pageCount": 4
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714352334&api=v2",
+          "local": "papers/geography-2024-1.pdf",
+          "pageCount": 2
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714349592&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714352334&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Hindamisjuhend%20eesti%20keeles%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714355605&api=v2",
+          "local": "papers/geography-2024-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20%28PE%20geograafia%202024%29.pdf?version=1&modificationDate=1756714357017&api=v2"
+        },
+        {
+          "title": "Geograafia põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Geograafia%20PE%20eristuskiri.pdf?version=1&modificationDate=1756714355131&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2024",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2024,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_ajalugu_2024_est_I%20vihik.pdf?version=1&modificationDate=1756708836279&api=v2",
+          "local": "papers/history-2024-0.pdf",
+          "pageCount": 2
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_ajalugu_2024_est_II%20vihik.pdf?version=1&modificationDate=1756708836637&api=v2",
+          "local": "papers/history-2024-1.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_ajalugu_2024_est_I%20vihik.pdf?version=1&modificationDate=1756708836279&api=v2"
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_ajalugu_2024_est_II%20vihik.pdf?version=1&modificationDate=1756708836637&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_ajalugu_2024_hindamisjuhis_est.pdf?version=1&modificationDate=1756708838391&api=v2",
+          "local": "papers/history-2024-guide-2.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%202024.pdf?version=2&modificationDate=1756727644845&api=v2"
+        },
+        {
+          "title": "Ajaloo põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Ajaloo%20PE%20eristuskiri.pdf?version=1&modificationDate=1756708835816&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2024",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2024,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202024%29.pdf?version=1&modificationDate=1756712831985&api=v2",
+          "local": "papers/physics-2024-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202024%29.pdf?version=1&modificationDate=1756712831985&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Hindamisjuhend%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202024%29.pdf?version=1&modificationDate=1756712835283&api=v2",
+          "local": "papers/physics-2024-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20%28PE%20f%C3%BC%C3%BCsika%202024%29.pdf?version=1&modificationDate=1756712836376&api=v2"
+        },
+        {
+          "title": "Füüsika põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/F%C3%BC%C3%BCsika%20PE%20eristuskiri.pdf?version=1&modificationDate=1756712834863&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2024",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2024,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202024%29.pdf?version=1&modificationDate=1756716015015&api=v2",
+          "local": "papers/chemistry-2024-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202024%29.pdf?version=1&modificationDate=1756716015015&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Hindamisjuhend%20eesti%20keeles%20%28PE%20keemia%202024%29.pdf?version=1&modificationDate=1756716016525&api=v2",
+          "local": "papers/chemistry-2024-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%20%28PE%20keemia%202024%29.pdf?version=1&modificationDate=1756716017958&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2024",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2024,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787492/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2024",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_yhiskond_2024_est.pdf?version=1&modificationDate=1756727642363&api=v2",
+          "local": "papers/civics-2024-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_yhiskond_2024_est.pdf?version=1&modificationDate=1756727642363&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/PK_yhiskond_2024_hindamisjuhis_est.pdf?version=1&modificationDate=1756727643166&api=v2",
+          "local": "papers/civics-2024-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/Vastavustabel%202024.pdf?version=2&modificationDate=1756727644845&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse põhikooli lõpueksami eristuskiri 2024",
+          "url": "https://projektid.edu.ee/download/attachments/313787492/%C3%9Chiskonna%C3%B5petuse%20PE%20eristuskiri.pdf?version=1&modificationDate=1756727645229&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "math-2023",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2023,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PK%20matemaatika%202023%29.pdf?version=1&modificationDate=1756736246006&api=v2",
+          "local": "papers/math-2023-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PK%20matemaatika%202023%29.pdf?version=1&modificationDate=1756736246006&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend eest keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Hindamisjuhend%20%28PE%20matemaatika%202023%29.pdf?version=1&modificationDate=1756736247039&api=v2",
+          "local": "papers/math-2023-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Vastavustabel%20%28PE%20matemaatika%202023%29.pdf?version=1&modificationDate=1756736248113&api=v2"
+        },
+        {
+          "title": "Matemaatika põhikooli lõpueksami eristuskiri 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Matemaatika%20PE%20eristuskiri.pdf?version=1&modificationDate=1756736247616&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2023",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2023,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eesti%20keel_PE_eksamit%C3%B6%C3%B6_2023.pdf?version=1&modificationDate=1756729134107&api=v2",
+          "local": "papers/estonian-2023-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eesti%20keel_PE_eksamit%C3%B6%C3%B6_2023.pdf?version=1&modificationDate=1756729134107&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eesti%20keel_PE%20_hindamisjuhend_2023.pdf?version=1&modificationDate=1756729133697&api=v2",
+          "local": "papers/estonian-2023-guide-1.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eesti%20keel_PE_v%C3%B5ti_2023.pdf?version=1&modificationDate=1756729135689&api=v2",
+          "local": "papers/estonian-2023-guide-2.pdf"
+        },
+        {
+          "title": "Eesti keele vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eesti%20keel_PE_vastavustabel_2023.pdf?version=1&modificationDate=1756729135274&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "english-2023",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2023,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_vihik.pdf?version=1&modificationDate=1756730758118&api=v2",
+          "local": "papers/english-2023-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_Helifail.mp3?version=1&modificationDate=1756730741649&api=v2"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_%20Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1756730740956&api=v2",
+          "local": "papers/english-2023-guide-1.pdf"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_%C3%95petajakaart_A.pdf?version=1&modificationDate=1756730758452&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_Pildikaardid_A.pdf?version=1&modificationDate=1756730756578&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_Rollim%C3%A4ngukaardid_A.pdf?version=1&modificationDate=1756730757531&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_vihik.pdf?version=1&modificationDate=1756730758118&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_Hindamisjuhend.pdf?version=1&modificationDate=1756730756178&api=v2",
+          "local": "papers/english-2023-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/ik_PK_2023_%20Vastavustabel.pdf?version=1&modificationDate=1756730741322&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2023",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2023,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202023%29.pdf?version=1&modificationDate=1756728708994&api=v2",
+          "local": "papers/biology-2023-0.pdf",
+          "pageCount": 12
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202023%29.pdf?version=1&modificationDate=1756728708994&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Hindamisjuhend%20eesti%20keeles%20%28PE%20bioloogia%202023%29.pdf?version=1&modificationDate=1756728711135&api=v2",
+          "local": "papers/biology-2023-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Vastavustabel%20%28PE%20bioloogia%202023%29.pdf?version=1&modificationDate=1756728712051&api=v2"
+        },
+        {
+          "title": "Bioloogia põhikooli lõpueksami eristuskiri 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Bioloogia%20PE%20eristuskiri.pdf?version=1&modificationDate=1756728708527&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2023",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2023,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730045897&api=v2",
+          "local": "papers/geography-2023-0.pdf",
+          "pageCount": 4
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730048492&api=v2",
+          "local": "papers/geography-2023-1.pdf",
+          "pageCount": 2
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730045897&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730048492&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Hindamisjuhend%20eesti%20keeles%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730050888&api=v2",
+          "local": "papers/geography-2023-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Vastavustabel%20%28PK%20geograafia%202023%29.pdf?version=1&modificationDate=1756730052271&api=v2"
+        },
+        {
+          "title": "Geograafia põhikooli lõpueksami eristuskiri 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Geograafia_PE_eristuskiri.pdf?version=1&modificationDate=1756730050351&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2023",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2023,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_est_I%20vihik.pdf?version=1&modificationDate=1756728097890&api=v2",
+          "local": "papers/history-2023-0.pdf",
+          "pageCount": 2
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_est_II%20vihik.pdf?version=1&modificationDate=1756728098164&api=v2",
+          "local": "papers/history-2023-1.pdf",
+          "pageCount": 6
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_rus_II%20vihik.pdf?version=1&modificationDate=1756728099492&api=v2",
+          "local": "papers/history-2023-2.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_est_I%20vihik.pdf?version=1&modificationDate=1756728097890&api=v2"
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_est_II%20vihik.pdf?version=1&modificationDate=1756728098164&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_est_hindamisjuhend.pdf?version=1&modificationDate=1756728097430&api=v2",
+          "local": "papers/history-2023-guide-2.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_2023_rus_II%20vihik.pdf?version=1&modificationDate=1756728099492&api=v2"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_ajalugu_vastavustabel%202023.pdf?version=1&modificationDate=1756728100007&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2023",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2023,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202023%29.pdf?version=1&modificationDate=1756729554556&api=v2",
+          "local": "papers/physics-2023-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202023%29.pdf?version=1&modificationDate=1756729554556&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Hindamisjuhend%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202023%29.pdf?version=1&modificationDate=1756729557106&api=v2",
+          "local": "papers/physics-2023-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Vastavustabel%20%28PE%20f%C3%BC%C3%BCsika%202023%29.pdf?version=1&modificationDate=1756729558391&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2023",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2023,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PK%20keemia%202023%29.pdf?version=1&modificationDate=1756734394247&api=v2",
+          "local": "papers/chemistry-2023-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PK%20keemia%202023%29.pdf?version=1&modificationDate=1756734394247&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Hindamisjuhend%20eesti%20keeles%20%28PK%20keemia%202023%29.pdf?version=1&modificationDate=1756734395386&api=v2",
+          "local": "papers/chemistry-2023-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Vastavustabel%20%28PE%20keemia%202023%29.pdf?version=1&modificationDate=1756734397123&api=v2"
+        },
+        {
+          "title": "Keemia põhikooli lõpueksami eristuskiri 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/Keemia_PE_eristuskiri.pdf?version=1&modificationDate=1756734596795&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2023",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2023,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787497/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2023",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_yhiskond_2023_est.pdf?version=1&modificationDate=1756738489871&api=v2",
+          "local": "papers/civics-2023-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_yhiskond_2023_est.pdf?version=1&modificationDate=1756738489871&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_yhiskond_2023_hindamisjuhend_est.pdf?version=1&modificationDate=1756738491116&api=v2",
+          "local": "papers/civics-2023-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse arvamusloo hindamisjuhend eesti keeles 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_yhiskond_2023_arvamusloo%20hindamine_est.pdf?version=2&modificationDate=1756739016374&api=v2",
+          "local": "papers/civics-2023-guide-2.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2023",
+          "url": "https://projektid.edu.ee/download/attachments/313787497/PK_yhiskond_2023_vastavustabel.pdf?version=1&modificationDate=1756738494620&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "math-2022",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2022,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202022%29.pdf?version=1&modificationDate=1756984813975&api=v2",
+          "local": "papers/math-2022-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202022%29.pdf?version=1&modificationDate=1756984813975&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend eest keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20%28PE%20matemaatika%202022%29.pdf?version=1&modificationDate=1756984815241&api=v2",
+          "local": "papers/math-2022-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20matemaatika%202022%29.pdf?version=1&modificationDate=1756984815559&api=v2"
+        },
+        {
+          "title": "Matemaatika põhikooli lõpueksami eristuskiri 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eristuskiri%20%28PE%20matemaatika%202022%29.pdf?version=1&modificationDate=1756984814861&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2022",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2022,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksam%202022.pdf?version=1&modificationDate=1756981824016&api=v2",
+          "local": "papers/estonian-2022-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksam%202022.pdf?version=1&modificationDate=1756981824016&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksami%20hindamisjuhend%202022.pdf?version=1&modificationDate=1756981824451&api=v2",
+          "local": "papers/estonian-2022-guide-1.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksami%20v%C3%B5ti%202022.pdf?version=1&modificationDate=1756981825074&api=v2",
+          "local": "papers/estonian-2022-guide-2.pdf"
+        },
+        {
+          "title": "Eesti keele vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksami%20vastavustabel%202022.pdf?version=1&modificationDate=1756981824762&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "english-2022",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2022,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20vihik%202022.pdf?version=1&modificationDate=1756983108762&api=v2",
+          "local": "papers/english-2022-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Helifail.mp3?version=1&modificationDate=1756983102750&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20vihik%202022.pdf?version=1&modificationDate=1756983108762&api=v2"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20%C3%95petajakaart%20A.pdf?version=1&modificationDate=1756983109012&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Pildikaart%20A.pdf?version=1&modificationDate=1756983107574&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Rollim%C3%A4ngukaart%20A.pdf?version=1&modificationDate=1756983108004&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Hindamisjuhend.pdf?version=1&modificationDate=1756983107325&api=v2",
+          "local": "papers/english-2022-guide-5.pdf"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1756983108271&api=v2",
+          "local": "papers/english-2022-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/IK%20PK%20Vastavustabel.pdf?version=1&modificationDate=1756983108515&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2022",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2022,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202022%29.pdf?version=1&modificationDate=1756981552610&api=v2",
+          "local": "papers/biology-2022-0.pdf",
+          "pageCount": 12
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202022%29.pdf?version=1&modificationDate=1756981552610&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20bioloogia%202022%29.pdf?version=1&modificationDate=1756981553397&api=v2",
+          "local": "papers/biology-2022-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20biolooga%202022%29.pdf?version=1&modificationDate=1756981553988&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2022",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2022,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982412246&api=v2",
+          "local": "papers/geography-2022-0.pdf",
+          "pageCount": 4
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982413186&api=v2",
+          "local": "papers/geography-2022-1.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982412246&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982413186&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982414176&api=v2",
+          "local": "papers/geography-2022-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20geograafia%202022%29.pdf?version=1&modificationDate=1756982415009&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2022",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2022,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20I%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980799105&api=v2",
+          "local": "papers/history-2022-0.pdf",
+          "pageCount": 2
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20II%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980799755&api=v2",
+          "local": "papers/history-2022-1.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20I%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980799105&api=v2"
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20II%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980799755&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980800310&api=v2",
+          "local": "papers/history-2022-guide-2.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20ajalugu%202022%29.pdf?version=1&modificationDate=1756980800827&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2022",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2022,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202022%29.pdf?version=1&modificationDate=1756982113744&api=v2",
+          "local": "papers/physics-2022-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202022%29.pdf?version=1&modificationDate=1756982113744&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202022%29.pdf?version=1&modificationDate=1756982114602&api=v2",
+          "local": "papers/physics-2022-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20f%C3%BC%C3%BCsika%202022%29%20.pdf?version=1&modificationDate=1756982115387&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2022",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2022,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202022%29.pdf?version=1&modificationDate=1756984522889&api=v2",
+          "local": "papers/chemistry-2022-0.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202022%29.pdf?version=1&modificationDate=1756984522889&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20keemia%202022%29.pdf?version=1&modificationDate=1756984523562&api=v2",
+          "local": "papers/chemistry-2022-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20keemia%202022%29.pdf?version=1&modificationDate=1756984524161&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2022",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2022,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313787500/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2022",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202022%29.pdf?version=1&modificationDate=1756987604656&api=v2",
+          "local": "papers/civics-2022-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202022%29.pdf?version=1&modificationDate=1756987604656&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Hindamisjuhend%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202022%29.pdf?version=1&modificationDate=1756987605449&api=v2",
+          "local": "papers/civics-2022-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse arvamusloo hindamisjuhend eesti keeles 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Arvamusloo%20hindamine%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202022%29.pdf?version=1&modificationDate=1756987603926&api=v2",
+          "local": "papers/civics-2022-guide-2.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2022",
+          "url": "https://projektid.edu.ee/download/attachments/313787500/Vastavustabel%20%28PE%20%C3%BChiskonna%C3%B5petus%202022%29.pdf?version=1&modificationDate=1756987606225&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "math-2021",
+      "subject": "math",
+      "name": "Matemaatika",
+      "year": 2021,
+      "description": "Algebra, geomeetria ja probleemilahendus",
+      "icon": "∑",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202021%29.pdf?version=1&modificationDate=1757664253967&api=v2",
+          "local": "papers/math-2021-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Matemaatika eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20matemaatika%202021%29.pdf?version=1&modificationDate=1757664253967&api=v2"
+        },
+        {
+          "title": "Matemaatika hindamisjuhend eest keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20%28PE%20matemaatika%202021%29.pdf?version=1&modificationDate=1757664255488&api=v2",
+          "local": "papers/math-2021-guide-1.pdf"
+        },
+        {
+          "title": "Matemaatika eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20matemaatika%202021%29.pdf?version=1&modificationDate=1757664255962&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "estonian-2021",
+      "subject": "estonian",
+      "name": "Eesti keel",
+      "year": 2021,
+      "description": "Lugemine, õigekeelsus ja kirjutamine",
+      "icon": "Aa",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Eesti keele eksamitöö 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksam%202021.pdf?version=1&modificationDate=1757585927247&api=v2",
+          "local": "papers/estonian-2021-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Eesti keele eksamitöö 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksam%202021.pdf?version=1&modificationDate=1757585927247&api=v2"
+        },
+        {
+          "title": "Eesti keele hindamisjuhend 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksami%20hindamisjuhend%202021.pdf?version=1&modificationDate=1757585928265&api=v2",
+          "local": "papers/estonian-2021-guide-1.pdf"
+        },
+        {
+          "title": "Eesti keele võti 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eesti%20keele%20p%C3%B5hikooli%20l%C3%B5pueksami%20v%C3%B5ti%202021.pdf?version=1&modificationDate=1757585928682&api=v2",
+          "local": "papers/estonian-2021-guide-2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "english-2021",
+      "subject": "english",
+      "name": "Inglise keel",
+      "year": 2021,
+      "description": "Lugemine, kuulamine ja kirjutamine",
+      "icon": "En",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Inglise keele eksamitöö 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ing_keel_2021_PK_vihik.pdf?version=1&modificationDate=1757663156326&api=v2",
+          "local": "papers/english-2021-0.pdf",
+          "pageCount": 6
+        }
+      ],
+      "resources": [
+        {
+          "title": "Inglise keele helifail 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Innove_inglise_k_PK_2021_2.mp3?version=1&modificationDate=1757663278531&api=v2"
+        },
+        {
+          "title": "Inglise keele eksamitöö 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ing_keel_2021_PK_vihik.pdf?version=1&modificationDate=1757663156326&api=v2"
+        },
+        {
+          "title": "Inglise keele õpetajakaart 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ik_PK_2021_Interviewer_A.pdf?version=1&modificationDate=1757663152606&api=v2"
+        },
+        {
+          "title": "Inglise keele pildikaardid 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ik_PK_2021_Pildikaardid_A.pdf?version=1&modificationDate=1757663154143&api=v2"
+        },
+        {
+          "title": "Inglise keele rollimängukaart 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ik_PK_2021_student_A.pdf?version=1&modificationDate=1757663155309&api=v2"
+        },
+        {
+          "title": "Inglise keele hindamisjuhend 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/PK%20Hindamisjuhend%202021.pdf?version=1&modificationDate=1757663156894&api=v2",
+          "local": "papers/english-2021-guide-5.pdf"
+        },
+        {
+          "title": "Inglise keele suulise osa hindamisjuhend 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Suulise%20osa%20hindamisjuhend.pdf?version=1&modificationDate=1757663297694&api=v2",
+          "local": "papers/english-2021-guide-6.pdf"
+        },
+        {
+          "title": "Inglise keele eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/ik_PK_2021_Vastavustabel.pdf?version=1&modificationDate=1757663155997&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "biology-2021",
+      "subject": "biology",
+      "name": "Bioloogia",
+      "year": 2021,
+      "description": "Elusloodus ja inimese bioloogia",
+      "icon": "♧",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202021%29.pdf?version=1&modificationDate=1757585559641&api=v2",
+          "local": "papers/biology-2021-0.pdf",
+          "pageCount": 11
+        }
+      ],
+      "resources": [
+        {
+          "title": "Bioloogia eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20bioloogia%202021%29.pdf?version=1&modificationDate=1757585559641&api=v2"
+        },
+        {
+          "title": "Bioloogia hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20bioloogia%202021%29.pdf?version=1&modificationDate=1757585561171&api=v2",
+          "local": "papers/biology-2021-guide-1.pdf"
+        },
+        {
+          "title": "Bioloogia eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20bioloogia%202021%29.pdf?version=1&modificationDate=1757585562705&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "geography-2021",
+      "subject": "geography",
+      "name": "Geograafia",
+      "year": 2021,
+      "description": "Kaardid, loodus ja ühiskond",
+      "icon": "◎",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587353936&api=v2",
+          "local": "papers/geography-2021-0.pdf",
+          "pageCount": 6
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587355440&api=v2",
+          "local": "papers/geography-2021-1.pdf",
+          "pageCount": 4
+        }
+      ],
+      "resources": [
+        {
+          "title": "Geograafia eksamitöö I osa eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20I%20osa%20eesti%20keeles%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587353936&api=v2"
+        },
+        {
+          "title": "Geograafia eksamitöö II osa eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20II%20osa%20eesti%20keeles%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587355440&api=v2"
+        },
+        {
+          "title": "Geograafia hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587357263&api=v2",
+          "local": "papers/geography-2021-guide-2.pdf"
+        },
+        {
+          "title": "Geograafia eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20geograafia%202021%29.pdf?version=1&modificationDate=1757587359194&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "history-2021",
+      "subject": "history",
+      "name": "Ajalugu",
+      "year": 2021,
+      "description": "Sündmused, allikad ja seosed",
+      "icon": "⌛",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20I%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584918687&api=v2",
+          "local": "papers/history-2021-0.pdf",
+          "pageCount": 2
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20II%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584919411&api=v2",
+          "local": "papers/history-2021-1.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ajaloo eksamitöö I vihik eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20I%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584918687&api=v2"
+        },
+        {
+          "title": "Ajaloo eksamitöö II vihik eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20II%20vihik%20eesti%20keeles%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584919411&api=v2"
+        },
+        {
+          "title": "Ajaloo hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584921470&api=v2",
+          "local": "papers/history-2021-guide-2.pdf"
+        },
+        {
+          "title": "Ajaloo eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20ajalugu%202021%29.pdf?version=1&modificationDate=1757584933447&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "physics-2021",
+      "subject": "physics",
+      "name": "Füüsika",
+      "year": 2021,
+      "description": "Liikumine, energia ja elekter",
+      "icon": "↗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202021%29.pdf?version=1&modificationDate=1757586580494&api=v2",
+          "local": "papers/physics-2021-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Füüsika eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202021%29.pdf?version=1&modificationDate=1757586580494&api=v2"
+        },
+        {
+          "title": "Füüsika hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20f%C3%BC%C3%BCsika%202021%29.pdf?version=1&modificationDate=1757586582143&api=v2",
+          "local": "papers/physics-2021-guide-1.pdf"
+        },
+        {
+          "title": "Füüsika eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20f%C3%BC%C3%BCsika%202021%29.pdf?version=1&modificationDate=1757586583443&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "chemistry-2021",
+      "subject": "chemistry",
+      "name": "Keemia",
+      "year": 2021,
+      "description": "Ained, reaktsioonid ja arvutused",
+      "icon": "⚗",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202021%29.pdf?version=1&modificationDate=1757663872838&api=v2",
+          "local": "papers/chemistry-2021-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Keemia eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20keemia%202021%29.pdf?version=1&modificationDate=1757663872838&api=v2"
+        },
+        {
+          "title": "Keemia hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20keemia%202021%29.pdf?version=1&modificationDate=1757663873888&api=v2",
+          "local": "papers/chemistry-2021-guide-1.pdf"
+        },
+        {
+          "title": "Keemia eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20keemia%202021%29.pdf?version=1&modificationDate=1757663874884&api=v2"
+        }
+      ]
+    },
+    {
+      "id": "civics-2021",
+      "subject": "civics",
+      "name": "Ühiskonnaõpetus",
+      "year": 2021,
+      "description": "Riik, ühiskond ja kodanik",
+      "icon": "⚖",
+      "source": "https://projektid.edu.ee/spaces/THO/pages/313791491/P%C3%B5hikooli+l%C3%B5pueksamite+materjalid+2021",
+      "papers": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202021%29.pdf?version=1&modificationDate=1757672759452&api=v2",
+          "local": "papers/civics-2021-0.pdf",
+          "pageCount": 8
+        }
+      ],
+      "resources": [
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Eksamit%C3%B6%C3%B6%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202021%29.pdf?version=1&modificationDate=1757672759452&api=v2"
+        },
+        {
+          "title": "Ühiskonnaõpetuse hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Hindamisjuhend%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202021%29.pdf?version=1&modificationDate=1757672760464&api=v2",
+          "local": "papers/civics-2021-guide-1.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse arvamusloo hindamisjuhend eesti keeles 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Arvamusloo%20hindamine%20eesti%20keeles%20%28PE%20%C3%BChiskonna%C3%B5petus%202021%29.pdf?version=1&modificationDate=1757672758372&api=v2",
+          "local": "papers/civics-2021-guide-2.pdf"
+        },
+        {
+          "title": "Ühiskonnaõpetuse eksamitöö vastavustabel 2021",
+          "url": "https://projektid.edu.ee/download/attachments/313791491/Vastavustabel%20%28PE%20%C3%BChiskonna%C3%B5petus%202021%29.pdf?version=1&modificationDate=1757672771200&api=v2"
+        }
+      ]
+    }
+  ]
+}
